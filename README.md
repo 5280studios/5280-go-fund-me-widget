@@ -28,7 +28,7 @@ A lightweight WordPress plugin that adds a *Go Fund Me* donate button to your Wo
 
 # License
 
-The *Go Fund Me Widget* is licensed under the [GPL v3](https://www.gnu.org/licenses/gpl.html) or later.
+The *5280 Go Fund Me Widget* is licensed under the [GPL v3](https://www.gnu.org/licenses/gpl.html) or later.
 
 #### Developer
 
